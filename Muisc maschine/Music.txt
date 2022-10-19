@@ -1,0 +1,8 @@
+﻿// C major scale
+C4 D E F G A B C5:2
+
+// F major scale
+F4 G A Bb C5 D E F:2
+
+// G major scale
+G A B C D E F# G:2

@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace Muisc_maschine
 {
-    class Program
+    class MusicalNotation
     {
-        static void Main(string[] args)
-        {
-            Music masterpiece = new Music("Music.txt");
-            masterpiece.Play();
+        private int Duration;
 
-            Console.ReadLine();
+        public void Play()
+        {
+
         }
     }
 }
